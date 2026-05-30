@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssecrypt",
+        "uuid": 15163665,
+        "checksum": "m89sl"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
